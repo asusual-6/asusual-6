@@ -1,35 +1,42 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
-
-<h3 align="center">
-Computer Science Student | Software Developer | AI Enthusiast
-</h3>
+<h3 align="center">🚀 A Passionate Web Developer from India 🇮🇳</h3>
 
 ---
 
-## 🌟 About Me
+<!-- About + Image Side by Side -->
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🎓 B.Tech Computer Science student
-- 💻 Working with Python, C++, SQL and Web Development
-- 🤖 Interested in Artificial Intelligence and Product Development
-- 🚀 Currently building AI-based projects
-- 💬 Ask me about Python, Flask, HTML, CSS and JavaScript
-- 📫 Reach me at: anurags6464@gmail.com
+### 🌟 About Me  
+ 
+- 🌱 Learning **React.js** & diving deep into Frontend development    
+- 💬 Ask me about **React, JavaScript, Python**  
+- 📫 Reach me at **anurags6464@gmail.com**  
+- 📄 Check my **[Resume](https://drive.google.com/file/d/1y8zKzv-tcNlIll_MRKepWkuw60sFYtmR/view?usp=sharing)**  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Skills
+### 🤝 Connect With Me
+<p align="center">
+<a href="https://leetcode.com/u/anurag2778/" target="blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40"/>
+</a>
+</p>
 
-### Programming
-`Python` `C++` `SQL` `JavaScript`
-
-### Web Development
-`HTML` `CSS` `JavaScript` `Flask`
-
-### Tools
-`Git` `GitHub` `Excel` `Google Sheets`
 
 ---
 
-## 🤝 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/anurag-sarda-82b258239/) 
+### 🛠️ Languages & Tools
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,cpp,c,git,aws,gcp,postman,tailwind,tensorflow" />
+</p>
