@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anurag</h1>
 
-<!--
-**asusual-6/asusual-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science Student | Software Developer | AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🎓 B.Tech Computer Science student
+- 💻 Working with Python, C++, SQL and Web Development
+- 🤖 Interested in Artificial Intelligence and Product Development
+- 🚀 Currently building AI-based projects
+- 💬 Ask me about Python, Flask, HTML, CSS and JavaScript
+- 📫 Reach me at: anurags6464@gmail.com
+
+---
+
+## 🛠️ Skills
+
+### Programming
+`Python` `C++` `SQL` `JavaScript`
+
+### Web Development
+`HTML` `CSS` `JavaScript` `Flask`
+
+### Tools
+`Git` `GitHub` `Excel` `Google Sheets`
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/anurag-sarda-82b258239/) 
